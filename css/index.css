@@ -274,7 +274,7 @@ body {
   padding: 0px 50px;
 }
 .wrap .cont3 .center .portfolio .left_box h2 {
-  color: #00e600;
+  color: #a47b24;
   font-size: 25px;
   margin: 40px 0;
 }
@@ -293,5 +293,5 @@ body {
   background-color: #fff;
 }
 .wrap .cont3 .center .portfolio .left_box > a:hover {
-  background-color: #00e600;
+  background-color: #a47b24;
 }
